@@ -6,5 +6,5 @@ Integrantes:
 
 ■  Javier Espinoza
 ■  Melvin Erazo
-■  Luis Henriquez
+■  Luis Hernandez
 ■  Samuel Machuca
