@@ -5,6 +5,9 @@ Proyecto 3° Registro Arquitectura de Computadoras
 Integrantes:
 
 ■  Javier Espinoza
+
 ■  Melvin Erazo
+
 ■  Luis Hernandez
+
 ■  Samuel Machuca
